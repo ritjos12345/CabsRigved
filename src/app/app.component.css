@@ -55,3 +55,13 @@
 .mat-header-cell:nth-child(7){
   flex: 0 0 7%;
 }
+
+.mat-column-select {
+  overflow: initial;
+}
+
+.mainFooter{
+  position: fixed !important;
+  bottom: 30px;
+  right: 30px;
+}
